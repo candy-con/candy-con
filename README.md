@@ -1,5 +1,5 @@
 ### Hello World! こんにちは！  👋
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/xEQKSpMMvVucoYwb3X/giphy.gif" width="100"/>
 </div>
