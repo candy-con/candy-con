@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World! こんにちは！  👋
+
 
 <!--
 **candy-con/candy-con** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
